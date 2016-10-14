@@ -16,4 +16,4 @@ paper after the rotation.
 These rules are described in the game as well, and it should be clear what do do
 at every point. It's 2-player, so find a friend!
 
-Double click the link OUTSIDE of the backend file to begin!
+Double click "AdvancedRockPaperScissors" OUTSIDE of the backend file to begin!
